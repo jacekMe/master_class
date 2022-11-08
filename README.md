@@ -1,4 +1,4 @@
 # DW master_class 
 
-Różne wyzwania tworzone od DataWorkshop. 
-Idea polega na rozwiązywaniu konkursu stworzonego przez DataWorkshop na platformie kaggle.com. Zazwyczaj jest to kilku dniowe wyzwanie o określonej tematyce. 
+Różne wyzwania tworzone przez DataWorkshop (https://dataworkshop.eu/)
+Idea polega na stworzeniu modelu uczenia maszynowego do rozwiązania określonego problemu (np. klasyfikacja lub regresja) i wrzucenia go na platformę kaggle.com, na której odbywa się konkurs. Zazwyczaj jest to kilkudniowe wyzwanie.
